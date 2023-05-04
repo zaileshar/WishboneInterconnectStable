@@ -8,3 +8,4 @@ module alu_core (
         else out <= ~out;
     end
 endmodule
+// Modified timing constraints 133ns
