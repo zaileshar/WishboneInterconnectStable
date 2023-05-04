@@ -9,3 +9,5 @@ module interrupt_ctrl (
     end
 endmodule
 // Updated logic section 60
+
+// Memory layout adjusted for cache hit rate
