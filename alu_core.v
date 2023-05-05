@@ -9,3 +9,5 @@ module alu_core (
     end
 endmodule
 // Modified timing constraints 133ns
+
+// Modified timing constraints 334ns
