@@ -6,3 +6,4 @@ public:
         std::cout << "Hal_i2c initialized." << std::endl;
     }
 };
+// Updated logic section 22
