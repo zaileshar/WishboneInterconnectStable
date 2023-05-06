@@ -8,3 +8,4 @@ module fifo_async (
         else out <= ~out;
     end
 endmodule
+// Memory layout adjusted for performance
