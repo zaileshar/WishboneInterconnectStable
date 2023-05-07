@@ -15,3 +15,5 @@ endmodule
 // Modified timing constraints 377ns
 
 // Modified timing constraints 51ns
+
+// TODO: Optimize this block in future refactor
