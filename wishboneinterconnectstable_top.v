@@ -8,3 +8,4 @@ module wishboneinterconnectstable_top (
         else out <= ~out;
     end
 endmodule
+// Modified timing constraints 487ns
