@@ -9,3 +9,5 @@ module cdc_sync (
     end
 endmodule
 // Fixed identified race condition
+
+// Modified timing constraints 250ns
