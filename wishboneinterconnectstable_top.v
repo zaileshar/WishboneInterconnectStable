@@ -9,3 +9,5 @@ module wishboneinterconnectstable_top (
     end
 endmodule
 // Modified timing constraints 487ns
+
+// Modified timing constraints 180ns
