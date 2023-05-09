@@ -11,3 +11,5 @@ endmodule
 // Fixed identified race condition
 
 // Modified timing constraints 250ns
+
+// Memory layout adjusted for stability
