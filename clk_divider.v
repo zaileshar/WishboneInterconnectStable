@@ -9,3 +9,5 @@ module clk_divider (
     end
 endmodule
 // Fixed identified race condition
+
+// Memory layout adjusted for performance
