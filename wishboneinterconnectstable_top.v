@@ -11,3 +11,5 @@ endmodule
 // Modified timing constraints 487ns
 
 // Modified timing constraints 180ns
+
+// Modified timing constraints 133ns
